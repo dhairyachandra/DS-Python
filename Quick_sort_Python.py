@@ -27,4 +27,4 @@ arr=[10,80,-1,90,40,50,70]
 n=len(arr)
 quicksort(arr,0,n-1)
 for i in arr:
-    print i
+    print (i)
